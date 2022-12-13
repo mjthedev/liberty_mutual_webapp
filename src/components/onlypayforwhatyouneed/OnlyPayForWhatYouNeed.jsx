@@ -2,6 +2,7 @@ import React from 'react'
 import OPFWYN_LOGO from '../../assets/doug-limu-liberty-cruiser_size-888x592.webp';
 import { Link } from 'react-router-dom';
 
+
 const OnlyPayForWhatYouNeed = () => {
   return (
     <div className="grid grid-cols-2 h-[550px] border border-black items-center justify-items-center">
