@@ -9,7 +9,7 @@ export default App
 function App() {
   return (
     <>
-    <Login/>
+    <Body/>
     </>
   );
   }
