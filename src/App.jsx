@@ -10,7 +10,7 @@ export default App
 function App() {
   return (
     <>
-    <Logout/>
+    <Body/>
     </>
   );
   }
